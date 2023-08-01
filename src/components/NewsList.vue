@@ -11,7 +11,7 @@ export default {
       page: 1,
       totalPages: null,
       isLoading: false,
-      url: 'http://flems.github.io/test/api/news'
+      url: 'https://flems.github.io/test/api/news'
     }
   },
 
